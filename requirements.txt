@@ -8,3 +8,4 @@ botocore
 python-dotenv
 uuid
 ffmpeg-python
+yt-dlp
